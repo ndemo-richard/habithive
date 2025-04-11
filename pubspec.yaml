@@ -38,8 +38,9 @@ dependencies:
 
   # ✅ Firebase packages go here
   firebase_core: ^3.13.0
-  cloud_firestore: ^5.6.6
   firebase_auth: ^5.5.2
+  cloud_firestore: ^5.6.6
+  firebase_messaging: ^15.2.5
 
 dependency_overrides:
   async: ^2.13.0 
